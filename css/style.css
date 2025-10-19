@@ -171,19 +171,4 @@ textarea {
   color: #e74c3c;
 }
 
-#okBtn {
-  margin-top: 15px;
-  background: #00bcd4;
-  border: none;
-  color: white;
-  font-weight: 600;
-  padding: 10px 25px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: 0.3s;
-}
 
-#okBtn:hover {
-  background: #0097a7;
-  transform: scale(1.05);
-}
